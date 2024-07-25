@@ -61,6 +61,8 @@ sign out of all accounts in Apollo before installing
 
 ## For sideloading
 
+As of July 25, 2024, Reddit is blocking the original Bundle Identifier, `com.christianselig.Apollo` and Apollo will not function unless you modify it before installing.
+
 the IPA is available on the GitHub release page.
 
 "ApolloPatcher.dylib" are already included, so all you need to do is install them from AltStore or other sources.  
